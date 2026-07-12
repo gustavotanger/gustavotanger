@@ -31,5 +31,3 @@ Projeto de estudo com pipeline de CI/CD completo: testes automatizados (pytest) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavotanger&show_icons=true&theme=tokyonight&hide_border=true)
