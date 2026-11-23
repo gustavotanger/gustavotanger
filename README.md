@@ -1,6 +1,6 @@
 ### Olá, eu sou o Gustavo 👋
 
-**Analista de TI Júnior | Desenvolvedor PHP & Python | Banco de Dados MySQL | ADS - PUCPR**
+**Analista de Dados Júnior | Desenvolvedor PHP & Python | Banco de Dados MySQL | ADS - PUCPR**
 
 Tecnólogo em Análise e Desenvolvimento de Sistemas (PUCPR), com formação completa em PHP Web + MySQL. Atualmente na TCS (BPO), migrando de carreira para TI com projetos práticos em PHP, Python, banco de dados e automação de pipelines.
 
